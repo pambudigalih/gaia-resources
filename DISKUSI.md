@@ -1,24 +1,63 @@
-### Manage Relations
+### Observing
 
-Nama | Manage Relations
+Nama | Observing
 :----|:----
-Kode | MNRL
-Alias | Socializing
-Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode | DI01
+Alias | 
+Definisi | 
 
-### Achievement Drive
+### Involvement
 
-Nama  | Achievement Drive
+Nama  | Involvement
 :-----|:----
-Kode  | ACHD
-Alias | Semangat Tempur
-Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode  | DI02
+Alias | 
+Definisi | 
 
-### Ascent Drive
+### Inquiri
 
-Nama  | Ascent Drive
+Nama  | Inquiri
 :-----|:----
-Kode  | ASCD
-Alias | Dorongan Mendaki
-Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
-Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode  | DI03
+Alias | 
+Definisi | 
+
+### Advocacy
+
+Nama | Advocacy
+:----|:----
+Kode | DI04
+Alias | 
+Definisi | 
+
+### Situation Handling
+
+Nama  | Situation Handling
+:-----|:----
+Kode  | DI05
+Alias | 
+Definisi | 
+
+### Willingness
+
+Nama  | Inquiri
+:-----|:----
+Kode  | DI06
+Alias | 
+Definisi |
+
+### Ability
+
+Nama  | Ability
+:-----|:----
+Kode  | DI07
+Alias | 
+Definisi | 
+
+### Resultante
+
+Nama  | Resultante
+:-----|:----
+Kode  | DI08
+Alias | 
+Definisi |
