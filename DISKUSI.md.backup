@@ -2,7 +2,7 @@
 
 Nama | Observing
 :----|:----
-Kode | DI01
+Kode | OBS
 Alias (INA) | Kemampuan mengamati proses diskusi
 Definisi | Kemauan dan kemampuan memfokuskan diri pada upaya pencapaian tugas kelompok, dan kemampuan dalam mengikuti berbagai topik pembahasan serta mengikuti proses kerjasama dalam simulasi diskusi secara kontinyu.
 Deskripsi Lv. 1 WITHDRAWING  | Menarik diri, tidak mengikuti jalannya diskusi, sibuk hal lain, self centered.
@@ -14,7 +14,7 @@ Deskripsi Lv. 4 OUTPUT BASED | Secara kontinyu mengamati jalannya diskusi.
 
 Nama  | Involvement
 :-----|:----
-Kode  | DI02
+Kode  | INV
 Alias (INA) | Kemampuan melibatkan diri
 Definisi | Kemampuan melibatkan diri untuk memberikan kontribusi yang efektif, dan menciptakan sinergi dari beberapa orang dalam tim, guna menyelesaikan tugas bersama. Mencakup keaktifan dan kontinuitas dalam memberikan kontribusi pendapat/gagasan yang bermanfaat dan mendorong optimalisasi kontribusi anggota kelompok.
 Deskripsi Lv. 1 WITHDRAWING  | Tidak aktif dalam terlibat & kontribusi; keterlibatan karena ‘dipaksa’ anggota lain.
@@ -26,7 +26,7 @@ Deskripsi Lv. 4 INITIATIVE (OTHERS) | Initiative Self + mengajak orang lain agar
 
 Nama  | Inquiry
 :-----|:----
-Kode  | DI03
+Kode  | INQ
 Alias (INA) | Kemampuan menggali informasi
 Definisi | Kemampuan mencari informasi, memperoleh kejelasan dan mengelaborasi pendapat orang lain secara lebih mendalam. Mencakup kemauan dan kemampuan untuk memahami pendapat orang lain dengan menggunakan gaya pendekatan yang sesuai dengan kondisi, serta memastikan ketepatan pemahaman dirinya terhadap pendapat yang disampakan orang lain.
 Deskripsi Lv. 1 WITHDRAWING  | Tidak mau tahu; bertanya tidak lebih karena ‘dipaksa’ sehingga ngambang, ambiguous dan tidak jelas.
@@ -38,7 +38,7 @@ Deskripsi Lv. 4 EXPLORING | Bertanya untuk mengeksplorasi lebih lanjut pendapat 
 
 Nama | Advocacy
 :----|:----
-Kode | DI04
+Kode | ADV
 Alias (INA) | Kemampuan menyampaikan pendapat
 Definisi | Kemampuan menyampaikan pendapat atau gagasan secara terstruktur, menyesuaikan kondisi audien, dan mengembangkan gaya pendekatan yang dapat meningkatkan kemudahan untuk dipahami oleh orang lain. Mencakup kemauan dan kemampuan memahami kondisi/kebutuhan audien, menyampaikan pendapat pribadi secara empatetik, mencari cara yang lebih efektif dalam memberikan penjelasan, dan berinisitaif mengembangkan komunikasi dua arah.
 Deskripsi Lv. 1 WITHDRAWING  | Tidak mau tahu; menyampaikan gagasan tidak lebih karena ‘dipaksa’ sehingga ngambang, ambiguous dan tidak jelas.
@@ -50,7 +50,7 @@ Deskripsi Lv. 4 CONSULTING | Sangat terstruktur disertai dengan alasan yang logi
 
 Nama  | Situation Handling
 :-----|:----
-Kode  | DI05
+Kode  | SH
 Alias (INA) | Kemampuan mengelola situasi kelompok
 Definisi | Kemampuan mengelola proses kerjasama dalam simulasi diskusi dan mengembangkan gaya pendekatan yang sesuai guna menciptakan suasana yang kolaboratif, serta memunculkan kesepakatan yang dapat diterima setiap pihak terkait. Mencakup inisiatif untuk memfasilitasi dan mengarahkan jalannya diskusi kelompok, serta mengelola perbedaan pandangan.
 Deskripsi Lv. 1 WITHDRAWING  | Tidak melakukan apapun, withdrawing/ignoring atau unnecessary questions, ataupun defending.
@@ -62,7 +62,7 @@ Deskripsi Lv. 4 DIALOGUE | Pendekatan exploring inquiry dan consulting advocacy 
 
 Nama  | Willingness
 :-----|:----
-Kode  | DI06
+Kode  | WILL
 Alias (INA) | Kemauan untuk terlibat dalam kelompok
 Definisi | kemauan untuk terlibat atau niatan untuk hadir dan berkontribusi dalam dinamika suatu kelompok.
 
@@ -70,7 +70,7 @@ Definisi | kemauan untuk terlibat atau niatan untuk hadir dan berkontribusi dala
 
 Nama  | Ability
 :-----|:----
-Kode  | DI07
+Kode  | ABLT
 Alias (INA) | Kemampuan dalam memberikan kontribusi
 Definisi | kemampuan yang dimiliki seseorang sehingga mampu memberikan kontribusi yang efektif terhadap kelompok. 
 
@@ -78,6 +78,6 @@ Definisi | kemampuan yang dimiliki seseorang sehingga mampu memberikan kontribus
 
 Nama  | Resultante
 :-----|:----
-Kode  | DI08
+Kode  | RSLT
 Alias (INA) | Kemampuan menghadapi situasi perbedaan/konflik
 Definisi | Efektifitas seseorang ketika berhadapan dengan situasi konflik/ perbedaan pendapat atau bagaimana kemampuan seseorang memfasilitasi kelompok untuk mencapai tujuan kelompok dengan menggunakan kemampuannya dalam mempertimbangkan berbagai latar belakang dan sudut pandang serta dalam menggunakan pendekatan personal yang efektif.
