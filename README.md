@@ -1,3 +1,5 @@
+branch baru
+
 # gaia-resources
 Kumpulan material Gaia Labs
 
@@ -6,3 +8,6 @@ Kumpulan material Gaia Labs
 - [Template penulisan data elemen](./template-data-elemen.md)
 - Statemen Modul AIME
 - Statemen Modul CSI
+
+
+updated
